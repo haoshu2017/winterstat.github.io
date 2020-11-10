@@ -5,12 +5,28 @@
     <link>winterstat.github.io/</link>
       <atom:link href="winterstat.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Sonja D. Winter</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 18 Oct 2020 15:08:34 -0700</lastBuildDate>
     <image>
       <url>/winterstat.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Sonja D. Winter</title>
       <link>winterstat.github.io/</link>
     </image>
+    
+    <item>
+      <title>Shiny App: The Importance of Prior Sensitivity Analysis in Bayesian Statistics</title>
+      <link>winterstat.github.io/project/shiny-app-3/</link>
+      <pubDate>Sun, 18 Oct 2020 15:08:34 -0700</pubDate>
+      <guid>winterstat.github.io/project/shiny-app-3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Shiny App: The Impact of Prior Distributions in a Bayesian Latent Growth Model</title>
+      <link>winterstat.github.io/project/shiny-app-1/</link>
+      <pubDate>Fri, 18 Sep 2020 14:59:07 -0700</pubDate>
+      <guid>winterstat.github.io/project/shiny-app-1/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>A Tutorial on Using The Wambs Checklist to Avoid The Misuse of Bayesian Statistics</title>
