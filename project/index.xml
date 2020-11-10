@@ -6,25 +6,7 @@
     <description>Recent content in Projects on Sonja D. Winter</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 18 Oct 2020 15:08:34 -0700</lastBuildDate><atom:link href="winterstat.github.io/project/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Shiny App: The Importance of Prior Sensitivity Analysis in Bayesian Statistics</title>
-      <link>winterstat.github.io/project/shiny-app-3/</link>
-      <pubDate>Sun, 18 Oct 2020 15:08:34 -0700</pubDate>
-      
-      <guid>winterstat.github.io/project/shiny-app-3/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Shiny App: The Impact of Prior Distributions in a Bayesian Latent Growth Model</title>
-      <link>winterstat.github.io/project/shiny-app-1/</link>
-      <pubDate>Fri, 18 Sep 2020 14:59:07 -0700</pubDate>
-      
-      <guid>winterstat.github.io/project/shiny-app-1/</guid>
-      <description></description>
-    </item>
-    
+    <lastBuildDate>Wed, 18 Sep 2019 15:08:34 -0700</lastBuildDate><atom:link href="winterstat.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Shiny App: First Bayesian Inference</title>
       <link>winterstat.github.io/project/shiny-app-2/</link>
